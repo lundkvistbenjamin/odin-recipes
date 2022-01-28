@@ -1,0 +1,20 @@
+body {
+  font-family: "Times New Roman";
+  font-size: 24px;
+  background-color: beige;
+}
+
+.container {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.wrapper {
+  margin: 40px 300px 40px 300px;
+}
+
+.list {
+  list-style-type: none;
+  text-decoration: none;
+}
